@@ -1,0 +1,112 @@
+body {
+    text-align: center;
+    background-color: #8070ce;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+#header {
+    background-color: #f9f8ff;
+    width: 60vw;
+    height: 7vw;
+    margin: 0px auto;
+    font-size: 4vw;
+    color: black;
+    padding-top: 2vw;
+    font-weight: 600;
+}
+
+.inputContainer {
+    width: 60vw;
+    margin: 0 auto;
+}
+
+.input {
+    height: 30px;
+    font-size: 1.3em;
+    margin-top: 10px;
+}
+
+#slider {
+    margin: 10px auto;
+}
+
+#circle {
+    position: absolute;
+    height: 3px;
+    width: 3px;
+    border-radius: 50%;
+    background-color: black;
+    margin: 10px auto;
+    position: relative;
+}
+
+#container {
+    width: 60vw;
+    height: 40vw;
+    background-color: white;
+    border: 1px solid brown;
+    margin: 10px auto;
+    
+    cursor: crosshair;
+}
+
+.inputContainer2 {
+    width: 90vw;
+    margin: 0 auto;
+}
+
+.input2 {
+    width: 29vw;
+    color: black;
+    font-size: 1.3em;
+    float: left;
+}
+
+.button {
+    background-color: white;
+    padding: 7px;
+    height: 50px;
+    border-radius: 3px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0px 4px rgba(0,0,0,0.2);
+}
+
+.button:hover {
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+
+#paint {
+    background-color: white;
+    width: 60vw;
+    height: 40vw;
+}
+
+.eraseMode {
+    background-color: red;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
